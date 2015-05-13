@@ -1,4 +1,4 @@
-vader.vim [![travis-ci](https://travis-ci.org/junegunn/vader.vim.svg?branch=master)](https://travis-ci.org/junegunn/vader.vim)
+vader.vim [![travis-ci](https://travis-ci.org/starcraftman/vader.vim.svg?branch=master)](https://travis-ci.org/starcraftman/vader.vim)
 =========
 
 I use Vader to test Vimscript.
